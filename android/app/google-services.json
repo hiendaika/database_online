@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585293260101",
+    "project_id": "crudtutorial-53ee9",
+    "storage_bucket": "crudtutorial-53ee9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585293260101:android:442533fdd4c839acd00a2c",
+        "android_client_info": {
+          "package_name": "com.example.database_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDZI_eO12Ojlm-nyozhoLy73WFCCD3tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
